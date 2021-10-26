@@ -2,7 +2,7 @@
 
 ## Installation
 ```python
-pip install weather-Mike_Redfox
+pip install -i https://test.pypi.org/simple/ weather-Mike-Redfox
 ```
 
 ## Usage 
